@@ -1,0 +1,26 @@
+@import url("https://fonts.googleapis.com/css?family=Montserrat");
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+  font-family: "Montserrat", sans-serif;
+  font-weight: 600;
+}
+
+.container {
+  margin-top: 80px;
+}
+
+.footer {
+  position: absolute;
+  bottom: 20px;
+}
+.footer .fa-heart {
+  color: #800;
+}
+.footer .fa-flask {
+  color: #080;
+}
